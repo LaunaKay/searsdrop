@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"di",
+				"difference"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"box-",
+				"box-shadow:   (property)"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"box-sizing",
+				"box-sizing:   (property)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"4px",
+				"48px"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"transi",
+				"transition:   (property)"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"new",
+				"newhtmlCode  (variable)"
+			],
+			[
+				"elment",
+				"angular.element"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"watch",
+				"angular: $watch"
+			],
+			[
+				"http",
+				"angular: $http"
+			],
+			[
+				"findby",
+				"findByUsername"
+			],
+			[
+				"d",
+				"directive	Angular.js"
+			],
+			[
+				"chain",
+				"chainDescription"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"to",
+				"toDateString  (function)"
+			],
+			[
+				"ng-",
+				"ng-disabled=  (attribute)"
+			],
+			[
+				"curren",
+				"currentUser"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"factory",
+				"factory	Angular.js"
+			],
+			[
+				"controll",
+				"angular: controller"
+			],
+			[
+				"routeP",
+				"angular: $routeProvider"
+			],
+			[
+				"direc",
+				"directive	Angular.js"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"get",
+				"getDay  (function)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"contro",
+				"controller	Angular.js"
+			],
+			[
+				"element",
+				"angular.element"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ang",
+				"angular.module"
+			],
+			[
+				"fato",
+				"factory	Angular.js"
+			],
+			[
+				"angul",
+				"angular: $http"
+			],
+			[
+				"cont",
+				"$controller	AngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"w",
+				"width:   (property)"
+			],
+			[
+				"overflow-",
+				"overflow-y:   (property)"
+			],
+			[
+				"s",
+				"sans-serif  (value)"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"l",
+				"location  (variable)"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"i",
+				"id=  (attribute)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"overflow",
+				"overflow:   (property)"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"backgroud-",
+				"background-size"
+			],
+			[
+				"create",
+				"createTodo"
+			],
+			[
+				"json",
+				"jsonp"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"function",
+				"  objects with a length property (such as a function's"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"g",
+				"getElementbyId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"par",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKIN	",
+				"Package Control: Install Package"
+			],
+			[
+				"pA",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 525.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/khebert/Sites/searsdrop"
+	],
+	"file_history":
+	[
+		"/Users/khebert/Sites/takana-example/index.html",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/khebert/Sites/jasmine-examples/test.js",
+		"/Users/khebert/Sites/takana-example/scss/style.scss",
+		"/Users/khebert/Sites/jasmine-examples/express/spec/serverSpec.js",
+		"/Users/khebert/Work/client/letsgoballooning/code/responsive.css",
+		"/Users/khebert/Sites/jasmine-examples/simple/karma.conf.js",
+		"/Users/khebert/Sites/es6-katas-complete/ArrayFrom.js",
+		"/Users/khebert/Sites/jasmine-examples/simple/package.json",
+		"/Users/khebert/Sites/jasmine-examples/express/package.json",
+		"/Users/khebert/Sites/jasmine-examples/backbone/karma.conf.js",
+		"/Users/khebert/Sites/jasmine-examples/backbone/js/appSpec.js",
+		"/Users/khebert/Sites/jasmine-examples/backbone/js/app.js",
+		"/Users/khebert/Sites/jasmine-examples/backbone/package.json",
+		"/Users/khebert/Sites/jasmine-examples/express/spec/helloWorldSpec.js",
+		"/Users/khebert/Sites/jasmine-examples/express/app/helloWorld.js",
+		"/Users/khebert/Sites/jasmine-examples/express/spec/support/jasmine.json",
+		"/Users/khebert/Sites/jasmine-examples/express/lib/jasmine_examples/Player.js",
+		"/Users/khebert/Sites/jasmine-examples/express/lib/jasmine_examples/Song.js",
+		"/Users/khebert/Sites/jasmine-examples/express/spec/jasmine_examples/PlayerSpec.js",
+		"/Users/khebert/Sites/jasmine-examples/express/karma.conf.js",
+		"/Users/khebert/Sites/jasmine-examples/express/app/server.js",
+		"/Users/khebert/Sites/jasmine-examples/express/app/serverSpec.js",
+		"/Users/khebert/Sites/javascript-koans/KoansRunner.html",
+		"/Users/khebert/Sites/javascript-koans/koans/AboutExpects.js",
+		"/Users/khebert/Sites/javascript-koans/koans/AboutArrays.js",
+		"/Users/khebert/Sites/jasmine-examples/express/app/simple.js",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_config.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/header.php",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/page-home.php",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_custom.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_helpers.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/style.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_type.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/style.css",
+		"/Users/khebert/Sites/TDDJS/test suite example/jakefile.js",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_forms.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/footer.php",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/functions.php",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_menu.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/sass/_buttons.scss",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/css/swipebox.min.css",
+		"/Users/khebert/Sites/425autobody/theme/425autobody/page.php",
+		"/Users/khebert/Sites/angular-video-chat/public/sass/main.scss",
+		"/Users/khebert/Sites/angular-video-chat/public/js/main.js",
+		"/Users/khebert/Sites/angular-video-chat/public/index.html",
+		"/Users/khebert/Sites/TDDJS/lesson 1/notes.txt",
+		"/Users/khebert/Sites/angular-video-chat/server.js",
+		"/Users/khebert/Sites/TDDJS/lesson 3/src/_server_test.js",
+		"/Users/khebert/Sites/TDDJS/lesson 3/jakefile.js",
+		"/Users/khebert/Sites/TDDJS/lesson 3/src/server.js",
+		"/Users/khebert/Sites/TDDJS/lesson 2/src/_difference_test.js",
+		"/Users/khebert/Sites/TDDJS/weewikipaint/README.MD",
+		"/Users/khebert/Sites/TDDJS/weewikipaint/jakefile.js",
+		"/Users/khebert/Sites/TDDJS/weewikipaint/build/lint/_lint_runner_test.js",
+		"/Users/khebert/Sites/forplayers/sass/_spacing.scss",
+		"/Users/khebert/Sites/forplayers/sass/_config.scss",
+		"/Users/khebert/Sites/forplayers/sass/_base.scss",
+		"/Users/khebert/Sites/forplayers/sass/_type.scss",
+		"/Users/khebert/Sites/forplayers/sass/_helpers.scss",
+		"/Users/khebert/Sites/kui/sass/_helpers.scss",
+		"/Users/khebert/Sites/forplayers/sass/_custom.scss",
+		"/Users/khebert/Sites/forplayers/css/main.min.css",
+		"/Users/khebert/Sites/kui/sass/_custom.scss",
+		"/Users/khebert/Sites/forplayers/sass/main.scss",
+		"/Users/khebert/Sites/Blog/intro-to-angularjs/code/index.html",
+		"/Users/khebert/Sites/Blog/intro-to-angularjs/code/js/main.js",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/bb06d57b-c0ee-489a-8fc9-7c27fee9258c/public_html/glp/content/themes/glp/style.css",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/bb06d57b-c0ee-489a-8fc9-7c27fee9258c/public_html/glp/content/themes/glp/header.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/tribe-events/list.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/emaw/wp-content/themes/emaw/footer.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/functions.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/tribe-events/list/single-event.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/tribe-events/list/loop-past.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/tribe-events/list/single-past-event.php",
+		"/Users/khebert/Downloads/wp-config (2).php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/bb06d57b-c0ee-489a-8fc9-7c27fee9258c/public_html/glp/wp-config.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/tribe-events/list/content.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/bb06d57b-c0ee-489a-8fc9-7c27fee9258c/public_html/glp/content/themes/glp/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/emaw/wp-content/themes/emaw/functions.php",
+		"/private/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/b235c3e5-e9a4-4af7-858c-466d1750afdd/wp-content/themes/emaw/tribe-events/list/loop.php",
+		"/Users/khebert/Sites/emaw2/functions.php",
+		"/Users/khebert/Sites/emaw2/sftp-config.json",
+		"/Users/khebert/Sites/home-automation/js/main.js",
+		"/Users/khebert/Sites/home-automation/sftp-config.json",
+		"/Users/khebert/Sites/home-automation/index.html",
+		"/Users/khebert/Sites/home-automation/css/main.css",
+		"/Users/khebert/Downloads/SVGDrawingAnimation/css/component.css",
+		"/Users/khebert/Sites/kui/index.html",
+		"/Users/khebert/Sites/kui/sass/_menu.scss",
+		"/Users/khebert/Sites/kui/sass/_base.scss",
+		"/Users/khebert/Sites/kui/images/logo.png",
+		"/Users/khebert/Sites/emaw/index.html",
+		"/Users/khebert/Sites/emaw/sass/main.scss",
+		"/Users/khebert/Sites/kui/gulpfile.js",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/lib/config.js",
+		"/Users/khebert/Sites/kui/sass/_grid.scss",
+		"/Users/khebert/Sites/kui/sass/_config.scss",
+		"/Users/khebert/Sites/kui/sass/_type.scss",
+		"/Users/khebert/Sites/kui/sass/_code.scss",
+		"/Users/khebert/Sites/kui/sass/_spacing.scss",
+		"/Users/khebert/Sites/kui/sass/main.scss",
+		"/Users/khebert/Sites/kui/js/main.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp-imagemin/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/plugins/moveElemsAttrsToGroup.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp-util/lib/isNull.js",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/khebert/Sites/kui/node_modules/gulp-sass/node_modules/node-sass/test/sass-spec/spec/todo/types/expected_output.css",
+		"/Users/khebert/Sites/kui/sass/lib/_forms.scss",
+		"/Users/khebert/Sites/kui/sass/_debug.scss",
+		"/Users/khebert/Work/client/caffeinatedcommunications/colocationamerica/backup/stage/flawless-v1-16/footer.php",
+		"/Users/khebert/Sites/kui/sass/_misc.scss",
+		"/Users/khebert/Sites/kui/sass/_forms.scss",
+		"/Users/khebert/Sites/kui/sass/_buttons.scss",
+		"/Users/khebert/Sites/kui/sass/_styles.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build/config.gypi",
+		"/Users/khebert/Sites/kui/node_modules/gulp-csslint/node_modules/event-stream/test/stringify.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp/completion/fish",
+		"/Users/khebert/Sites/kui/node_modules/gulp-sass/node_modules/node-sass/test/sass-spec/spec/todo/bourbon/lib/addons/_font-family.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/lib/cli/cli-options.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp/CHANGELOG.md",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/node_modules/socket.io/node_modules/engine.io/node_modules/ws/lib/BufferUtil.js",
+		"/Users/khebert/Sites/kui/node_modules/.bin/browser-sync",
+		"/Users/khebert/Sites/kui/sass/_mixins.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/lib/tunnel.js",
+		"/Users/khebert/Sites/kui/.gitignore",
+		"/Users/khebert/Sites/kui/sass/npm-debug.log",
+		"/Users/khebert/Sites/kui/css/mnml.min.css",
+		"/Users/khebert/Sites/kui/sass/mnml.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/khebert/Desktop/20150322_grahamlundbergpeschel_550f042f6bfba3900150322180431_archive/content",
+			"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv2/,/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv2/",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/style",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/styles/components",
+			"/Users/khebert/Sites/wordpress/wp-content/themes/",
+			"/Users/khebert/Sites/wordpress/wp-content/themes",
+			"/Users/khebert/Desktop/backup/summ-live-stage,/Users/khebert/Desktop/backup/summa",
+			"/Users/khebert/Desktop/backup/summ-live-stage",
+			"/Users/khebert/Sites/summa",
+			"/Users/khebert/Sites/summa,/Applications/XAMPP/xamppfiles/htdocs/summa/wp-content",
+			"/Users/khebert/Sites/summa",
+			"/Users/khebert/Desktop/summ-old",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cc",
+			"backbone",
+			"testResponse",
+			"js",
+			" connection",
+			"socke",
+			"section",
+			"min-height",
+			"custom-sidebar",
+			"footer-sidebar-1",
+			"height",
+			"small",
+			"type",
+			"footer",
+			"slider-header",
+			"tc color-white slider-header",
+			"slideshow",
+			".gallery-item",
+			".gallery-item ",
+			".gallery-item",
+			"style.css",
+			"style",
+			".8em",
+			"logo",
+			"-50px",
+			"calc-em(-50px);",
+			"50px",
+			"menu",
+			"title",
+			"color: $color-white",
+			"cycle-",
+			"large",
+			"medium",
+			"before",
+			"h2",
+			"\"",
+			"section",
+			"echo",
+			"phone_number",
+			"html5_shortcode_demo",
+			"legend",
+			"radius",
+			"radisu",
+			"players",
+			"    ",
+			"chat",
+			";",
+			"menu",
+			";",
+			"style.css",
+			"style",
+			"children",
+			"page_",
+			"hover",
+			"children",
+			"page_item",
+			"page_",
+			"li.current_page_parent",
+			"menu-item_has_children",
+			"page_item",
+			"menu",
+			"nav",
+			"remove_",
+			"remove_menu_page",
+			"menuwp_nav_",
+			"menu",
+			"wphidenag",
+			"admin_menu",
+			"remove_menu",
+			"remove",
+			"menu",
+			"-550",
+			"0;",
+			"move_eye",
+			"dash",
+			"move_eye 4s linear 0s infinite alternate",
+			"200",
+			" 100%;",
+			"data-appear-top-offset=\"-250\" ",
+			"tracer",
+			".appear();",
+			"bann3",
+			"fill-opacity: 0;",
+			".tracer",
+			";\n",
+			"calc-em(32px)",
+			"calc-em(8px)",
+			"function",
+			"desktop",
+			"pri",
+			"li",
+			"h4",
+			"-left:",
+			"right",
+			"logo",
+			"Menu",
+			"menu",
+			"main-nav ",
+			"main-nav",
+			"20",
+			"#000",
+			"radius",
+			"section",
+			"32",
+			"container",
+			"clearfix",
+			";\n",
+			"menu",
+			"h1",
+			"radius",
+			"border-radius",
+			"$color-primary",
+			"mnml",
+			"=\"{'':",
+			"active",
+			"modal",
+			"showModal",
+			"wp_title",
+			"<h3 class=\"gdlr-blog-title\" style=\"margin-bottom:5px;\">",
+			"single-content",
+			"gdlr-ux gdlr-blog-full-ux",
+			"gdlr-standard-style",
+			"blog",
+			"headerphone",
+			"margin-right:20px; float: left;",
+			"errors",
+			"compliant",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tabs-2",
+			"[/accordion]",
+			"[accordion ",
+			"[/acc_item]",
+			"[acc_item ",
+			"accordion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 343.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "searsdrop.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cust",
+				"sass/_custom.scss"
+			],
+			[
+				"_",
+				"sass/_custom.scss"
+			],
+			[
+				"custom",
+				"sass/_custom.scss"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"page",
+				"page-home.php"
+			],
+			[
+				"p",
+				"page-home.php"
+			],
+			[
+				".css",
+				"style.css"
+			],
+			[
+				"_cu",
+				"sass/_custom.scss"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"cu",
+				"sass/_custom.scss"
+			],
+			[
+				"hel",
+				"sass/_helpers.scss"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"",
+				"functions.php"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"he",
+				"sass/_helpers.scss"
+			],
+			[
+				"typ",
+				"sass/_type.scss"
+			],
+			[
+				"men",
+				"sass/_menu.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"_men",
+				"sass/_menu.scss"
+			],
+			[
+				"_con",
+				"sass/_config.scss"
+			],
+			[
+				"con",
+				"node_modules/browser-sync/lib/config.js"
+			],
+			[
+				"main",
+				"sass/main.scss"
+			],
+			[
+				"_h",
+				"sass/_helpers.scss"
+			],
+			[
+				"_t",
+				"sass/_type.scss"
+			],
+			[
+				"_conf",
+				"sass/_config.scss"
+			],
+			[
+				"main.scs",
+				"sass/main.scss"
+			],
+			[
+				"config",
+				"sass/_config.scss"
+			],
+			[
+				"conf",
+				"node_modules/browser-sync/lib/config.js"
+			],
+			[
+				"ty",
+				"sass/_type.scss"
+			],
+			[
+				"butt",
+				"sass/_buttons.scss"
+			],
+			[
+				"results",
+				"templates/results.html"
+			],
+			[
+				"style-",
+				"wp-content/themes/flawless-v1-16/-stylesheet/style-custom.css"
+			],
+			[
+				"controll",
+				"staychainv2/app/scripts/controllers.js"
+			],
+			[
+				"home.html",
+				"staychainv2/app/partials/home.html"
+			],
+			[
+				"main.css",
+				"staychain/dist/styles/main.css"
+			],
+			[
+				"mainspe",
+				"signup-directive/app/mainSpec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/overtherainbowhotairballons.com/overtherainbow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
