@@ -1,17 +1,17 @@
-<div class="living-room">
+<section class="living-room col-md-8">
     <div id="couch" class="product-selector">
-        <a href="#" ng-click="prev('couches')">prev</a>
+        <a href="#" ng-click="prev('couches')" class="arrow arrow-left">prev</a>
         <a ng-click="getDetails(couches[couchesIndex].id)"><img ng-src="{{couches[couchesIndex].mainimageurl}}" class="product-selector-image"></a>
-        <a href="#" ng-click="next('couches')">next</a>
+        <a href="#" ng-click="next('couches')" class="arrow arrow-right">next</a>
     </div>
     <div id="lamp" class="product-selector">
-        <a href="#" ng-click="prev('lamps')">prev</a>
+        <a href="#" ng-click="prev('lamps')" class="arrow arrow-left">prev</a>
         <a ng-click="getDetails(lamps[lampsIndex].id)"><img ng-src="{{lamps[lampsIndex].mainimageurl}}" class="product-selector-image"></a>
-        <a href="#" ng-click="next('lamps')">next</a>
+        <a href="#" ng-click="next('lamps')" class="arrow arrow-right">next</a>
     </div>
     <div id="wallart" class="product-selector">
-        <a href="#" ng-click="prev('wallarts')">prev</a>
+        <a href="#" ng-click="prev('wallarts')" class="arrow arrow-left">prev</a>
         <a ng-click="getDetails(wallarts[wallartsIndex].id)"><img ng-src="{{wallarts[wallartsIndex].mainimageurl}}" class="product-selector-image"></a>
-        <a href="#" ng-click="next('wallarts')">next</a>
+        <a href="#" ng-click="next('wallarts')" class="arrow arrow-right">next</a>
     </div>
-</div>
+</setion>
