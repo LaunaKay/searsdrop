@@ -41,10 +41,7 @@
 
 .living-room {
     background: url('/assets/images/living-room.jpg') center center no-repeat;
-    background-size: 100%;
-    min-width: 924px;
     min-height: 668px;
-    width: 100%;
     position: relative;
 }
 
