@@ -8,7 +8,6 @@
     <title>Understanding Bootstrap 3 Carousel</title>
 
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
     <style>
         * {
@@ -31,101 +30,152 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
-      <div id="myCarousel" class="carousel slide">
 
 
-          <div class="carousel-inner">
-                <div class="item active">
-
-                  <br>
-                  <br>
-
-                  <!-- Slide 1 -->
-                  <img class="center-block" src="assets/images/sears_sofa.jpeg"/>
-
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-                  <span width="30%"/>
-                  <p> Ex eum vocent appareat patrioque, te feugiat sadipscing mea. Vix ex hinc apeirian. In appetere nominati conceptam vel, vim id impetus adversarium. Aliquid dolores ei per, ut omnes possim duo, et labore nostrud scaevola pri.
-                  </p>
-                  <p><a class="btn btn-primary" href="#">Learn more...</a></p>
-
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-
-                </div>
-                <div class="item">
-
-                  <br>
-                  <br>
+<!-- Modal -->
+<!--
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
 
 
-                  <!-- Slide 2 -->
-                  <img  class="center-block" src="assets/images/end_table.jpeg"/>
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
 
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-
-                  <p> Praesent iaculis lorem vitae mi pretium lacinia. Morbi vel nisl quis nibh consectetur hendrerit. Suspendisse et ipsum luctus, auctor nunc vitae, semper felis. Vestibulum id eleifend turpis. Morbi accumsan turpis ac elit gravida rhoncus. Duis bibendum pharetra velit eget interdum. Nulla lobortis ipsum quis mi tincidunt tincidunt. Phasellus ac finibus turpis.
-                  </p>
-                  <p><a class="btn btn-primary" href="#">Learn more...</a></p>
-
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-
-                </div>
-                <div class="item">
-                  <!-- Slide 1 -->
-                  <br>
-                  <br>
-
-                  <img  class="center-block" src="assets/images/rug.jpeg"/>
-
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-                  <p> Donec pretium tincidunt condimentum. Suspendisse bibendum neque orci. Suspendisse in turpis metus. Vivamus dapibus dolor urna, eu convallis massa fermentum id. Praesent aliquam, nunc at hendrerit pulvinar, libero justo convallis velit, quis congue massa mauris eget tortor. Nulla tristique nisl sit amet fringilla ultrices. Morbi id consectetur dui, non tristique sapien.
-                  </p>
-                  <p><a class="btn btn-primary" href="#">Learn more...</a></p>
-
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-
-                </div>
-          </div>
+  </div>
+</div>
+-->
 
 
-           <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
+
+  <body ng-controller="MainCtrl" data-ng-if="productDetailWindowShow">
 
 
-            <!-- Controls -->
-          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left"></span>
-          </a>
+    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
 
-          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right"></span>
-          </a>
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"   data-ng-click="productDetailWindowShow=false">&times;</button>
+          <h4 class="modal-title">Modal Header</h4>
+        </div>
+
+        <div class="modal-body">
+
+          <div id="myCarousel" class="carousel slide">
+
+
+              <div class="carousel-inner">
+                    <div class="item active">
+
+                      <br>
+                      <br>
+
+                      <!-- Slide 1 -->
+                      <img class="center-block" src="assets/images/sears_sofa.jpeg"/>
+
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+                      <span width="30%"/>
+                      <p> Ex eum vocent appareat patrioque, te feugiat sadipscing mea. Vix ex hinc apeirian. In appetere nominati conceptam vel, vim id impetus adversarium. Aliquid dolores ei per, ut omnes possim duo, et labore nostrud scaevola pri.
+                      </p>
+                      <p><a class="btn btn-primary" href="#">Learn more...</a></p>
+
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+
+                    </div>
+                    <div class="item">
+
+                      <br>
+                      <br>
+
+
+                      <!-- Slide 2 -->
+                      <img  class="center-block" src="assets/images/end_table.jpeg"/>
+
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+
+                      <p> Praesent iaculis lorem vitae mi pretium lacinia. Morbi vel nisl quis nibh consectetur hendrerit. Suspendisse et ipsum luctus, auctor nunc vitae, semper felis. Vestibulum id eleifend turpis. Morbi accumsan turpis ac elit gravida rhoncus. Duis bibendum pharetra velit eget interdum. Nulla lobortis ipsum quis mi tincidunt tincidunt. Phasellus ac finibus turpis.
+                      </p>
+                      <p><a class="btn btn-primary" href="#">Learn more...</a></p>
+
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+
+                    </div>
+                    <div class="item">
+                      <!-- Slide 1 -->
+                      <br>
+                      <br>
+
+                      <img  class="center-block" src="assets/images/rug.jpeg"/>
+
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+                      <p> Donec pretium tincidunt condimentum. Suspendisse bibendum neque orci. Suspendisse in turpis metus. Vivamus dapibus dolor urna, eu convallis massa fermentum id. Praesent aliquam, nunc at hendrerit pulvinar, libero justo convallis velit, quis congue massa mauris eget tortor. Nulla tristique nisl sit amet fringilla ultrices. Morbi id consectetur dui, non tristique sapien.
+                      </p>
+                      <p><a class="btn btn-primary" href="#">Learn more...</a></p>
+
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+
+                    </div>
+              </div>
+
+
+               <!-- Indicators -->
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+
+                <!-- Controls -->
+              <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                  <span class="glyphicon glyphicon-chevron-left"></span>
+              </a>
+
+              <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                  <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+
+           </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal"  data-ng-click="productDetailWindowShow=false">Close</button>
+        </div>
 
       </div>
-
+    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

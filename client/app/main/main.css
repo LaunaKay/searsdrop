@@ -32,3 +32,23 @@
 .navbar-text {
     margin-left: 15px;
 }
+
+.carousel-inner p {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#myCarousel {
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color:white;
+}
+* {
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: red;
+}
