@@ -5,6 +5,8 @@ var mongoose = require('mongoose'),
 
 var ProductSchema = new Schema({
   name: String,
+  partnumber: String,
+  productlink: String,
   shortdescription: String,
   price: Number,
   rating:Number,
