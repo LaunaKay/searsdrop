@@ -2,26 +2,43 @@
 
 angular.module('searsdropApp')
   .controller('MainCtrl', function ($scope, $http, socket) {
-    $scope.awesomeThings = [];
+    $scope.products = [];
+    $scope.couches = [{mainimageurl: "/assets/images/couch.png"}, {mainimageurl: "/assets/images/couch.png"}, {mainimageurl: "/assets/images/couch.png"},{mainimageurl: "/assets/images/couch.png"}];
+    $scope.couchesIndex = 0;
 
-    $http.get('/api/things').success(function(awesomeThings) {
-      $scope.awesomeThings = awesomeThings;
-      socket.syncUpdates('thing', $scope.awesomeThings);
-    });
+    $scope.wallarts = [{mainimageurl: "/assets/images/wallart.png"}, {mainimageurl: "/assets/images/wallart.png"}];
+    $scope.wallartsIndex = 0;
 
-    $scope.addThing = function() {
-      if($scope.newThing === '') {
-        return;
-      }
-      $http.post('/api/things', { name: $scope.newThing });
-      $scope.newThing = '';
-    };
+    $scope.lamps = [{mainimageurl: "/assets/images/lamp.png"}, {mainimageurl: "/assets/images/lamp.png"} ];
+    $scope.lampsIndex = 0;
 
-    $scope.deleteThing = function(thing) {
-      $http.delete('/api/things/' + thing._id);
-    };
+    $scope.next = function next(arrayName) {
+        var index = arrayName + "Index";
+        var len = $scope[arrayName].length;
+        if($scope[index] >= len){
+            $scope[index] = 0;
+        } else {
+            $scope[index]++;
+        }
+    }
+
+    $scope.prev = function prev(arrayName){
+        var index = arrayName + "Index";
+        var len = $scope[arrayName].length;
+        if($scope[index] == 0){
+            $scope[index] = len;
+        } else {
+            $scope[index]--;
+        }
+    }
+
+    $scope.getDetails = function(id) {
+        alert(id);
+    }
 
     $scope.$on('$destroy', function () {
       socket.unsyncUpdates('thing');
     });
   });
+
+

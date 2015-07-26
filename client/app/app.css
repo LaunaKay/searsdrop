@@ -1,4 +1,3 @@
-
 /**
  * Bootstrap Fonts
  */
@@ -6,11 +5,9 @@
 @font-face {
     font-family: 'Glyphicons Halflings';
     src: url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot');
-    src: url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
-    url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'),
-    url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'),
-    url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+    src: url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
+
 
 /**
  *Font Awesome Fonts
@@ -19,13 +16,11 @@
 @font-face {
     font-family: 'FontAwesome';
     src: url('../bower_components/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0');
-    src: url('../bower_components/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'),
-    url('../bower_components/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'),
-    url('../bower_components/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'),
-    url('../bower_components/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+    src: url('../bower_components/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('../bower_components/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('../bower_components/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('../bower_components/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
+
 
 /**
  * App-wide Styles
@@ -36,4 +31,42 @@
     background: #ccc;
     color: #000;
     padding: 0.2em 0;
+}
+
+.living-room-container {
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+.living-room {
+    background: url('/assets/images/living-room.jpg') center center no-repeat;
+    background-size: 100%;
+    min-width: 924px;
+    min-height: 668px;
+    width: 100%;
+    position: relative;
+}
+
+#couch {
+    top: 64%;
+    left: 38%;
+}
+
+#lamp {
+    left: 14%;
+    top: 45%;
+}
+
+#wallart {
+    left: 40%;
+    top: 38%;
+}
+
+.arrow {
+    padding: 1em;
+}
+
+.product-selector {
+    position: absolute;
 }
