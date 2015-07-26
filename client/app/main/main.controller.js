@@ -2,6 +2,7 @@
 
 angular.module('searsdropApp')
   .controller('MainCtrl', function ($scope, $http, socket) {
+    $scope.productDetailWindowShow = false;
     $scope.products = [];
     $scope.couches = [{mainimageurl: "/assets/images/couch.png"}, {mainimageurl: "/assets/images/couch.png"}, {mainimageurl: "/assets/images/couch.png"},{mainimageurl: "/assets/images/couch.png"}];
     $scope.couchesIndex = 0;
@@ -35,6 +36,12 @@ angular.module('searsdropApp')
     $scope.getDetails = function(id) {
         alert(id);
     }
+
+    $scope.toggleModal = function toggleModal(){
+        $scope.productDetailWindowShow = !$scope.productDetailWindowShow;
+        console.log("$scope.productDetailWindowShow = " + $scope.productDetailWindowShow);
+
+    };
 
     $scope.$on('$destroy', function () {
       socket.unsyncUpdates('thing');
